@@ -16,9 +16,6 @@ miles by the sea
         <div className="img-container">
         <img className="img" src='src/Assets/Images/IMG_7877.JPEG' />
         </div>
-        <div className="img-container">
-        <img className="img" src='src/Assets/Images/IMG_7877.JPEG' />
-        </div>
     </div>
   );
 }
