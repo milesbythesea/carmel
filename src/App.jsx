@@ -14,7 +14,7 @@ miles by the sea
       <div className="App-body">
         </div>
         <div className="img-container">
-        <img className="img" src='src/Assets/Images/IMG_7877.JPEG' />
+        <img width="500" height="500" alt="placeholder"  src='src/Assets/Images/IMG_7877.JPEG' />
         </div>
     </div>
   );
