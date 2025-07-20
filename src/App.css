@@ -14,16 +14,32 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(14px + 2vmin);
   color: #C8F073;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-.App-link {
-  color: #61dafb;
+.App-body {
+  background-color: #637850;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(14px + 2vmin);
+  color: #C8F073;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-.heart {
-  color: #ff0000;
+.img {
+  max-width: 500px !important;
+  max-height: 500px !important;
+  border-radius: 6px;;
+}
+.img-container {
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+    background-color: #637850;
 }
 
 .small {
